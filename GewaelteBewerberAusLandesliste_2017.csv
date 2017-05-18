@@ -1,0 +1,72 @@
+Partei;Landeslistenplatz;Name;Beruf;Ort
+SPD;2;Römer, Norbert;Journalist;Castrop-Rauxel
+SPD;3;Schulze, Svenja;Unternehmensberaterin;Münster
+SPD;4;Körfges, Hans-Willi;Rechtsanwalt, Mitglied des Landtages;Mönchengladbach
+SPD;7;Müller-Witt, Elisabeth;Dipl.-Volkswirtin, Mitglied des Landtages;Ratingen
+SPD;8;Ott, Jochen;Oberstudienrat a. D. , Mitglied des Landtages;Köln
+SPD;9;Stotz, Marlies;Betriebswirtin, Mitglied des Landtages;Lippstadt
+SPD;10;Weske, Markus Herbert;Wiss. Referent, Mitglied des Landtages;Düsseldorf
+SPD;11;Lux, Josefa Maria (Eva);Bürokauffrau, Hausfrau, Mitglied des Landtages;Leverkusen
+SPD;12;Stinka, André;Verwaltungsbeamter, Mitglied des Landtages;Dülmen
+SPD;13;Watermann-Krass, Annette;Dipl.-Grafikdesignerin, Mitglied des Landtages;Sendenhorst
+SPD;14;Van den Berg, Guido;Dipl.-Sozialwissenschaftler, Mitglied des Landtages;Bedburg
+SPD;15;Spanier-Oppermann, Ina;Mitglied des Landtages;Krefeld
+SPD;16;Wolf, Sven;Rechtsanwalt, Mitglied des Landtages;Remscheid
+GRÜNE;1;Löhrmann, Sylvia;Landesministerin;Solingen
+GRÜNE;2;Remmel, Johannes;Landesminister;Siegen
+GRÜNE;3;Steffens, Barbara;Landesministerin, BTA, Mitglied des Landtages;Mülheim an der Ruhr
+GRÜNE;4;Mostofizadeh, Mehrdad;Wiss. Mitarbeiter, Mitglied des Landtages, Fraktionsvorsitzender;Essen
+GRÜNE;5;Beer, Sigrid;Mitglied des Landtages;Paderborn
+GRÜNE;6;Becker, Horst;Parlamentarischer Staatssekretär;Lohmar
+GRÜNE;7;Düker, Monika;Dipl.-Sozialpädagogin;Düsseldorf
+GRÜNE;8;Keymis, Oliver Martin;Regisseur;Meerbusch
+GRÜNE;9;Schäffer, Verena;Mitglied des Landtages;Witten
+GRÜNE;10;Klocke, Arndt;Referent;Köln
+GRÜNE;11;Paul, Josefine;Mitglied des Landtages;Münster
+GRÜNE;12;Rüße, Norwich;Bio-Landwirt;Steinfurt
+GRÜNE;13;Aymaz, Berivan;Übersetzerin, Moderatorin;Köln
+GRÜNE;14;Bolte-Richter, Matthi;Politikwissenschaftler;Bielefeld
+FDP;1;Lindner, Christian Wolfgang;Mitglied des Landtages;Düsseldorf
+FDP;2;Stamp, Joachim, Dr.;Politikwissenschaftler, Mitglied des Landtages;Bonn
+FDP;3;Freimuth, Angela;Rechtsanwältin;Schalksmühle
+FDP;4;Witzel, Ralf;Dipl.-Kaufmann, Mitglied des Landtages;Essen
+FDP;5;Hafke, Marcel;Versicherungskaufmann, Mitglied des Landtages;Wuppertal
+FDP;6;Lürbke, Marc;Mitglied des Landtages;Paderborn
+FDP;7;Rasche, Christof Elmar;Bankkaufmann, Mitglied des Landtages;Erwitte
+FDP;8;Brockes, Dietmar;Mitglied des Landtages;Brüggen
+FDP;9;Gebauer, Yvonne;Kauffrau;Köln
+FDP;10;Höne, Henning;Industriekaufmann, Betriebswirt (VWA);Coesfeld
+FDP;11;Wedel, Dirk;Mitglied des Landtages;Mettmann
+FDP;12;Pfeil, Werner, Dr.;Rechtsanwalt;Würselen
+FDP;13;Bombis, Ralph;Geschäftsführer;Erftstadt
+FDP;14;Schneider, Susanne Anna;Pharmareferentin;Schwerte
+FDP;15;Nückel, Thomas;Journalist;Herne
+FDP;16;Körner, Moritz;Student;Langenfeld (Rheinland)
+FDP;17;Terhaag, Andreas;Ingenieur;Mönchengladbach
+FDP;18;Paul, Stephen;Bankkaufmann, selbst. Berater;Herford
+FDP;19;Matheisen, Rainer;Kaufmann;Düsseldorf
+FDP;20;Diekhoff, Markus;Politikwissenschaftler;Drensteinfurt
+FDP;21;Freynick, Jörn;Selbst. Kommunikationstrainer;Bornheim
+FDP;22;Lenzen, Stefan;Leitender kfm. Angestellter;Heinsberg
+FDP;23;Mangen, Christian;Rechtsanwalt;Mülheim an der Ruhr
+FDP;24;Hannen, Martina;Dipl.-Juristin;Lage
+FDP;25;Müller-Rech, Franziska;Dipl.-Kauffrau (FH);Bonn
+FDP;26;Middeldorf, Bodo;Geschäftsführer;Sprockhövel
+FDP;27;Haupt, Stephan;Bautechniker, techn. Angestellter;Bedburg-Hau
+FDP;28;Reuter, Ulrich;Verlagskaufmann;Hamm
+AfD;1;Pretzell, Marcus;Volljurist, Politiker;Bochum
+AfD;2;Beckamp, Roger;Rechtsanwalt;Köln
+AfD;3;Neppe, Frank;Pensionär;Iserlohn
+AfD;4;Wagner, Markus;Unternehmer;Bad Oeynhausen
+AfD;5;Strotebeck, Herbert;Dipl.-Kaufmann (FH), Rentner;Erkrath
+AfD;6;Seifen, Helmut;Schulleiter;Gronau (Westf.)
+AfD;7;Loose, Christian ;Dipl.-Kaufmann;Bochum
+AfD;8;Keith-Volkmer, Andreas;Angestellter;Leverkusen
+AfD;9;Vogel, Nic Peter;Selbst. Kaufmann;Düsseldorf
+AfD;10;Dworeck-Danielowski, Iris;Versicherungsangestellte;Köln
+AfD;11;Langguth, Alexander;Angestellter;Iserlohn
+AfD;12;Vincentz, Martin, Dr.;Arzt;Krefeld
+AfD;13;Tritschler, Sven Werner;Angestellter;Köln
+AfD;14;Blex , Christian, Dr.;Oberstudienrat;Wadersloh
+AfD;15;Walger-Demolsky, Gabriele;Betriebswirtin (VWA);Bochum
+AfD;16;Röckemann, Thomas;Rechtsanwalt;Minden

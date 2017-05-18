@@ -1,0 +1,129 @@
+Wahlkreisnr.;Wahlkreisname;Partei;Name;Beruf;Ort
+1;Aachen I;SPD;Schultheis, Karl;Gruppenleiter Forschung im Ministerium für Wissenschaft, Innovation und Forschung NRW;Aachen
+2;Aachen II;CDU;Laschet, Armin;Mitglied des Landtages;Aachen
+3;Aachen III;SPD;Voigt-Küppers, Eva-Maria;Staatl. anerkannte Erzieherin, Mitglied des Landtages;Würselen
+4;Aachen IV;SPD;Kämmerling, Stefan;Bankkaufmann, Mitglied des Landtages;Eschweiler
+5;Rhein-Erft-Kreis I;CDU;Plonsker, Romina;Bankkauffrau;Pulheim
+6;Rhein-Erft-Kreis II;CDU;Rock, Frank;Schulleiter;Hürth
+7;Rhein-Erft-Kreis III;CDU;Golland, Gregor;Mitglied des Landtages, Dipl.-Kaufmann;Brühl
+8;Euskirchen I;CDU;Voussem, Klaus;Mitglied des Landtages;Euskirchen
+9;Heinsberg I;CDU;Krückel, Bernd;Steuerberater, Mitglied des Landtages;Heinsberg
+10;Heinsberg II;CDU;Schnelle, Thomas;Polizeibeamter;Hückelhoven
+11;Düren I;CDU;Peill, Patricia, Dr.;Dipl.-Betriebswirtin, Landwirtin;Nörvenich
+12;Düren II – Euskirchen II;CDU;Nolten, Ralf, Dr.;Dipl.-Agraringenieur, wiss. Mitarbeiter;Kreuzau
+13;Köln I;CDU;Kehrl, Oliver;Geschäftsführender Gesellschaftler;Köln
+14;Köln II;CDU;Petelkau, Bernd;Dipl.-Kaufmann;Köln
+15;Köln III;SPD;Hammelrath, Gabriele;Dipl.-Pädagogin, Mitglied des Landtages;Köln
+16;Köln IV;SPD;Kossiski, Andreas;Polizeibeamter;Köln
+17;Köln V;CDU;Braun, Florian;Angestellter;Köln
+18;Köln VI;SPD;Dos Santos Herrmann, Susana;PR-Beraterin;Köln
+19;Köln VII;SPD;Börschel, Martin;Rechtsanwalt, Mitglied des Landtages;Köln
+20;Leverkusen;CDU;Scholz, Rüdiger;Lehrer;Leverkusen
+21;Rheinisch-Bergischer Kreis I;CDU;Müller, Holger;Jurist, Mitglied des Landtages;Rösrath
+22;Rheinisch-Bergischer Kreis II;CDU;Deppe, Rainer;Landwirt, Mitglied des Landtages;Overath
+23;Oberbergischer Kreis I;CDU;Biesenbach, Peter;Rechtsanwalt, Mitglied des Landtages;Hückeswagen
+24;Oberbergischer Kreis II;CDU;Löttgen, Bodo;Generalsekretär, Kriminalhauptkommissar a.D.;Nümbrecht
+25;Rhein-Sieg-Kreis I;CDU;Franken, Björn;Dipl.-Kaufmann (FH);Ruppichteroth
+26;Rhein-Sieg-Kreis II;CDU;Milz, Andrea;Referentin;Königswinter
+27;Rhein-Sieg-Kreis III;CDU;Krauß, Oliver;Rechtsanwalt;Alfter
+28;Rhein-Sieg-Kreis IV;CDU;Gebauer, Katharina;Sozialpädagogin (B.A.);Troisdorf
+29;Bonn I;CDU;Déus, Guido;Bundesbeamter, Leiter Presse/Kommunikation der BlmA;Bonn
+30;Bonn II;CDU;Katzidis, Christos Georg, Dr.;Polizeibeamter;Bonn
+31;Wuppertal I;SPD;Bell, Dietmar;Geschäftsführer, Mitglied des Landtages;Wuppertal
+32;Wuppertal II;SPD;Bialas, Andreas;Polizeibeamter, Mitglied des Landtages;Wuppertal
+33;Wuppertal III – Solingen II;SPD;Neumann, Josef;Geschäftsführer, Mitglied des Landtages;Solingen
+34;Solingen I;CDU;Moritz, Arne;Mitglied des Landtages;Solingen
+35;Remscheid – Oberbergischer Kreis III;CDU;Nettekoven, Jens-Peter;Soldat;Remscheid
+36;Mettmann I;CDU;Schlottmann, Claudia;Betriebswirtin, Geschäftsführerin der CDU-Ratsfraktion;Hilden
+37;Mettmann II;CDU;Untrieser, Christian, Dr.;Referent für Energiepolitik, Rechtsanwalt;Erkrath
+38;Mettmann III;CDU;Heinisch, Jan, Dr.;Bürgermeister, Jurist;Heiligenhaus
+39;Mettmann IV;CDU;Sträßer, Martin;Jurist, stellvertretender Geschäftsführer;Wülfrath
+40;Düsseldorf I;CDU;Lehne, Olaf;Rechtsanwalt;Düsseldorf
+41;Düsseldorf II;CDU;Schmitz, Marco;Angestellter öffentlicher Dienst ;Düsseldorf
+42;Düsseldorf III;CDU;Erwin, Angela;Rechtsanwältin;Düsseldorf
+43;Düsseldorf IV;CDU;Preuß, Peter;Rechtsanwalt;Düsseldorf
+44;Rhein-Kreis Neuss I;CDU;Geerlings, Jörg, Dr.;Rechtsanwalt;Neuss
+45;Rhein-Kreis Neuss II;CDU;Troles, Heike;Bilanzbuchhalterin;Grevenbroich
+46;Rhein-Kreis Neuss III;CDU;Lienenkämper, Lutz;Staatsminister a.D. , Mitglied des Landtages;Meerbusch
+47;Krefeld I – Viersen III;CDU;Oellers, Britta;Bankkauffrau;Krefeld
+48;Krefeld II;CDU;Blondin, Marc;Versicherungsfachmann (BWV);Krefeld
+49;Mönchengladbach I;CDU;Boss, Frank;CDU-Fraktionsgeschäftsführer;Mönchengladbach
+50;Mönchengladbach II;CDU;Klenner, Jochen;Redakteur, Geschäftsführer;Mönchengladbach
+51;Viersen I;CDU;Berger, Stefan, Dr.;Dozent;Schwalmtal
+52;Viersen II;CDU;Optendrenk, Marcus, Dr.;Jurist;Nettetal
+53;Kleve I;CDU;Voßeler, Margret;Selbst. landwirtschaftliche Unternehmerin;Issum
+54;Kleve II;CDU;Bergmann, Günther , Dr.;Selbst. Unternehmensberater;Kalkar
+55;Oberhausen I;SPD;Bongers, Sonja;Rechtsanwältin;Oberhausen
+56;Oberhausen II – Wesel I;SPD;Zimkeit, Stefan;Mitglied des Landtages;Oberhausen
+57;Wesel II;SPD;Schneider, René;Dipl.-Journalist, Mitglied des Landtages;Kamp-Lintfort
+58;Wesel III;CDU;Quik, Charlotte;Wiss. Mitarbeiterin;Hamminkeln
+59;Wesel IV;SPD;Yetim, Ibrahim;Mitglied des Landtages;Moers
+60;Duisburg I;SPD;Philipp, Sarah;Projektmanagerin, Mitglied des Landtages;Duisburg
+61;Duisburg II;SPD;Bischoff, Rainer;Dipl.-Pädagoge, Mitglied des Landtages;Duisburg
+62;Duisburg III;SPD;Jäger, Ralf;Kaufmann, Mitglied des Landtages;Duisburg
+63;Duisburg IV – Wesel V;SPD;Börner, Frank;Kfm. Angestellter, Mitglied des Landtages;Duisburg
+64;Mülheim I;SPD;Kraft, Hannelore;Dipl.-Ökonomin, Mitglied des Landtages;Mülheim an der Ruhr
+65;Essen I – Mülheim II;SPD;Kutschaty, Thomas;Justizminister, Mitglied des Landtages;Essen
+66;Essen II;SPD;Müller, Frank;Angestellter;Essen
+67;Essen III;SPD;Altenkamp, Britta;Angestellte, Mitglied des Landtages;Essen
+68;Essen IV;CDU;Schrumpf, Fabian;Rechtsanwalt;Essen
+69;Recklinghausen I;SPD;Becker, Andreas;Angestellter, Mitglied des Landtages;Recklinghausen
+70;Recklinghausen II;SPD;Löcker, Carsten;Angestellter, Mitglied des Landtages;Herten
+71;Recklinghausen III;SPD;Hübner, Michael Ralf;Geschäftsführer, Mitglied des Landtages;Gladbeck
+72;Recklinghausen IV;CDU;Hovenjürgen, Josef;Mitglied des Landtages;Haltern am See
+73;Recklinghausen V;SPD;Kapteinat, Lisa-Kristin;Rechtsanwältin, Juristin;Castrop-Rauxel
+74;Gelsenkirchen I;SPD;Gebhard, Heike;Dipl.-Mathematikerin, Mitglied des Landtages;Gelsenkirchen
+75;Gelsenkirchen II;SPD;Watermeier, Sebastian;Historiker;Gelsenkirchen
+76;Bottrop;SPD;Göddertz, Thomas;Dipl.-Kaufmann;Bottrop
+77;Borken I;CDU;Wüst, Hendrik;Rechtsanwalt, Geschäftsführer;Rhede
+78;Borken II;CDU;Wermer, Heike;Wiss. Mitarbeiterin;Heek
+79;Coesfeld I – Borken III;CDU;Korth, Wilhelm;Landmaschinenschlosser, Verwalter;Coesfeld
+80;Coesfeld II;CDU;Panske, Dietmar;Staatlich geprüfter Betriebswirt;Ascheberg
+81;Steinfurt I;CDU;Schulze Föcking, Christina;Staatlich geprüfte Landwirtin;Steinfurt
+82;Steinfurt II;CDU;Stullich, Andrea;Chefredakteurin;Rheine
+83;Steinfurt III;SPD;Sundermann, Frank;Gartenbauingenieur, Mitglied des Landtages;Westerkappeln
+84;Münster I;CDU;Wendland, Simone;Rechtsanwältin;Münster
+85;Münster II;CDU;Nacke, Stefan, Dr.;Wiss. Referent;Münster
+86;Warendorf I;CDU;Hagemeier, Daniel;AOK Betriebswirt;Oelde
+87;Warendorf II;CDU;Rehbaum, Henning;Dipl.-Betriebswirt (FH);Sendenhorst
+88;Minden-Lübbecke I;CDU;Winkelmann, Bianca;Landwirtin;Rahden
+89;Minden-Lübbecke II;SPD;Weng, Christina;Fachkrankenschwester für Innere und Intensivmedizin;Minden
+90;Herford I – Minden-Lübbecke III;SPD;Dahm, Christian;Polizeibeamter, Mitglied des Landtages;Vlotho
+91;Herford II – Minden-Lübbecke IV;SPD;Lück, Angela;Krankenschwester, Mitglied des Landtages;Löhne
+92;Bielefeld I;SPD;Kampmann, Christina;Dipl.-Verwaltungswirtin;Bielefeld
+93;Bielefeld II;SPD;Kopp-Herr, Regina;Pädagogische Fachkraft, Mitglied des Landtages;Bielefeld
+94;Gütersloh I – Bielefeld III;SPD;Fortmeier, Georg;Jurist, Mitglied des Landtages;Bielefeld
+95;Gütersloh II;CDU;Tigges, Raphael;Sparkassenbetriebswirt;Gütersloh
+96;Gütersloh III;CDU;Kuper, André;Bürgermeister a. D. , Mitglied des Landtages;Rietberg
+97;Lippe I;SPD;Stock, Ellen;Bekleidungstechnikerin;Lage
+98;Lippe II;SPD;Berghahn, Jürgen;Elektroinstallateur, Mitglied des Landtages;Blomberg
+99;Lippe III;SPD;Maelzer, Dennis, Dr.;Politikwissenschaftler, Mitglied des Landtages;Detmold
+100;Paderborn I;CDU;Hoppe-Biermeyer, Bernhard;Selbst. Unternehmer;Delbrück
+101;Paderborn II;CDU;Sieveke, Daniel;Sparkassenbetriebswirt, Mitglied des Landtages;Paderborn
+102;Höxter;CDU;Goeken, Matthias;Bäckermeister;Bad Driburg
+103;Hagen I;SPD;Jörg, Wolfgang;Dipl.-Sozialarbeiter, Mitglied des Landtages;Hagen
+104;Hagen II – Ennepe-Ruhr-Kreis III;SPD;Kramer, Hubertus;Journalist, Mitglied des Landtages;Gevelsberg
+105;Ennepe-Ruhr-Kreis I;SPD;Bovermann, Rainer, Prof. Dr.;Politikwissenschaftler, Mitglied des Landtages;Hattingen
+106;Ennepe-Ruhr-Kreis II;SPD;Büteführ, Nadja, Dr.;Kommunikationswissenschaftlerin;Herdecke
+107;Bochum I;SPD;Gödecke, Carina;Mitglied des Landtages;Bochum
+108;Bochum II;SPD;Rudolph, Karsten, Dr.;Historiker;Bochum
+109;Bochum III – Herne II;SPD;Yüksel, Serdar;Krankenpfleger, Mitglied des Landtages;Bochum
+110;Herne I;SPD;Vogt, Alexander;Journalist, Mitglied des Landtages;Herne
+111;Dortmund I;SPD;Jahl, Armin;Angestellter, Mitglied des Landtages;Dortmund
+112;Dortmund II;SPD;Baran, Volkan;Angestellter;Dortmund
+113;Dortmund III;SPD;Lüders, Nadja;Rechtsanwältin, Mitglied des Landtages;Dortmund
+114;Dortmund IV;SPD;Butschkau, Anja;Dipl.-Sozialarbeiterin;Dortmund
+115;Unna I;SPD;Ganzke, Hartmut;Rechtsanwalt, Mitglied des Landtages;Unna
+116;Unna II;SPD;Schmeltzer, Rainer;Gewerkschaftssekretär, Mitglied des Landtages;Lünen
+117;Unna III – Hamm II;SPD;Weiß, Rüdiger;Schulleiter, Mitglied des Landtages;Bergkamen
+118;Hamm I;SPD;Herter, Marc;Angestellter, Mitglied des Landtages;Hamm
+119;Soest I;CDU;Frieling, Heinrich;Rechtsanwalt;Ense
+120;Soest II;CDU;Blöming, Jörg;Dipl.-Verwaltungswirt (FH), Aufgabenbereichsleiter;Erwitte
+121;Märkischer Kreis I;CDU;Schick, Thorsten;Dipl.-Kaufmann, Lehrer;Iserlohn
+122;Märkischer Kreis II;CDU;Voge, Marco;Büroleiter, Wiss. Referent, Dipl.-Wissenschaftler;Balve
+123;Märkischer Kreis III;SPD;Dudas, Gordan;Angest. Ausbildungsleiter, Mitglied des Landtages;Lüdenscheid
+124;Hochsauerlandkreis I;CDU;Kaiser, Klaus;Mitglied des Landtages;Arnsberg
+125;Hochsauerlandkreis II;CDU;Kerkhoff, Matthias;Mitglied des Landtags;Olsberg
+126;Siegen-Wittgenstein I;CDU;Kamieth, Jens;Rechtsanwalt, Mitglied des Landtages;Siegen
+127;Siegen-Wittgenstein II;CDU;Fuchs-Dreisbach, Anke;Physiotherapeutin;Bad Berleburg
+128;Olpe;CDU;Ritter, Jochen;Dipl.-Verwaltungswirt, Dipl.-Wirtschaftsingenieur;Olpe
