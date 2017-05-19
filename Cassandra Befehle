@@ -1,0 +1,14 @@
+Insert Into <tabelle> (feld1, feld2, feld3) Values (inhalt1, inhalt2, inhalt3);
+
+----
+Insert Into landesliste (parteiname, politiker_id, jahr, landeslistenplatz) Values ('CDU', 2, 2017, 5);
+
+Insert Into wahlkreis (nummer, jahr, anzahlwaehler, gueltigeerststimmen, gueltigezweitstimmen, name) Values (100, 2017, 123456, 123450, 123450, 'Paderborn I');
+
+Insert Into erststimmenliste (politiker_id, wahlkreisnummer, jahr, anzahlerststimmen) Values (2, 100, 2017, 12345);
+
+Insert Into zweitstimmenliste (parteiname, wahlkreisnummer, jahr, anzahlzweitstimmen) Values ('CDU', 100, 2017, 45621);
+
+Insert Into partei (name) Values ('CDU');
+
+Insert Into politiker (politiker_id, beruf, jahr, name, parteiname) Values (2, 'Informatiker', 2017, 'Max Müller', 'CDU');
