@@ -28,6 +28,7 @@ public class DBVerbindung {
          public static void  insert(String query) throws Exception
          {
                    s=cl.connect("Sitzplatzverteilung");
-                   s.execute(query);           
+                   s.execute(query);  
+                   s.close();
          }
 }
