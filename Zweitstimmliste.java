@@ -24,12 +24,13 @@ public class Zweitstimmliste {
 
     // Getter & Setter
     
-    public HashMap getZweitstimmListe(){
-        return this.zweitstimmListe;
+    public int getZweitstimmListe(Partei p){
+        return this.zweitstimmListe.get(p);
     }
     
-    public void setZweitstimmListe(HashMap<Partei, Integer> hm){
-        this.zweitstimmListe = hm;
+    public void add(Partei p, int stimmenAnz){
+        this.zweitstimmListe.put(p, stimmenAnz);
     }
     
 }
+
